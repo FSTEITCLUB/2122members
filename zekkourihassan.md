@@ -2,9 +2,9 @@
 
 
 ### Badge
-![Image](badges/zekkourihassan.png)
+![Image](badges/hassanzekkouri.png)
 
 ### QR/Barcode
-![Image](qr/qr_zekkourihassan.png)
+![Image](qr/qr_hassanzekkouri.png)
 ### IT Branch
 AI/ML
