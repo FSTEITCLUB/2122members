@@ -1,6 +1,10 @@
-## Welcome to Hassan Zekkouri Page
+## Welcome to Zekkouri Hassan Page
+
 
 ### Badge
-![Image](badges/hassanzekkouri.png)
+![Image](badges/zekkourihassan.png)
+
 ### QR/Barcode
-![Image](qr/qr_hassanzekkouri.png)
+![Image](qr/qr_zekkourihassan.png)
+### IT Branch
+AI/ML
