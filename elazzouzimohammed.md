@@ -2,7 +2,7 @@
 
 
 ### Badge
-![Image](badges/elazzouzimohammed.png)
+![Image](badges/mohamedelazzaoui.png)
 
 ### QR/Barcode
 ![Image](qr/qr_elazzouzimohammed.png)
