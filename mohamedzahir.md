@@ -1,4 +1,4 @@
-## Welcome to Mohamed zahir  Page
+## Welcome to Mohamed Zahir Page
 
 
 ### Badge
@@ -8,3 +8,5 @@
 ![Image](qr/qr_mohamedzahir.png)
 ### IT Branch
 AI/ML
+[Taaghi sabah](./taaghisabah.md)
+
