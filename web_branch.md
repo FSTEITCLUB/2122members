@@ -52,13 +52,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Abdellaoui Soukayna](./abdellaouisoukayna.md)
 
-[Ismail aqnouch](./ismailaqnouch.md)
-
 [ELAZZOUZI MOHAMMED](./elazzouzimohammed.md)
-
-[Ichi redouane](./ichiredouane.md)
-
-[soufyane benibaghat](./benibaghat.md)
 
 [ouharrou btissame](./ouharroubtissame.md)
 
@@ -71,12 +65,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Charafi Hayat](./charafihayat.md)
 
 [Ouakmi youssef](./ouakmiyoussef.md)
-
-[ZERBAN INSAF](./zerbaninsaf.md)
-
-[Mohamed Zahir](./mohamedzahir.md)
-
-[Taaghi sabah](./taaghisabah.md)
 
 [OUHROU Ismail](./ouhrouismail.md)
 
