@@ -2,11 +2,10 @@
 
 
 ### Badge
-![Image](badges/benhassanhasna.png)
+![Image](badges/hasnabenhassan.png)
 
 ### QR/Barcode
-![Image](qr/qr_benhassanhasna.png)
+![Image](qr/qr_hasnabenhassan.png)
 ### IT Branch
 Web Dev
-[Mustapha SLIMANI](./mustaphaslimani.md)
 
