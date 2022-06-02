@@ -24,23 +24,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Ben daoud Hicham](./bendaoudhicham.md)
 
-[ADIL ELMARROUNI ](./adilelmarrouni.md)
-
 [Aqachtoul Abderrahmane](./aqachtoulabderrahmane.md)
-
-[Termass Bouchra ](./termassbouchra.md)
-
-[Wahiba Lachahab](./wahibalachahab.md)
 
 [Hafida hatim](./hafidahatim.md)
 
-[Ali BENDAOUD ](./alibendaoud.md)
-
-[NISRINE HAMMOUDA](./nisrinehammouda.md)
-
 [Maryem Sinnou](./maryemsinnou.md)
-
-[EL ASSRI Hamza](./elassrihamza.md)
 
 [Zekkouri Hassan](./zekkourihassan.md)
 
