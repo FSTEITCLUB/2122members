@@ -2,11 +2,10 @@
 
 
 ### Badge
-![Image](badges/zerbaninsaf.png)
+![Image](badges/insafzerban.png)
 
 ### QR/Barcode
-![Image](qr/qr_zerbaninsaf.png)
+![Image](qr/qr_insafzerban.png)
 ### IT Branch
 Design
-[Mohamed Zahir](./mohamedzahir.md)
 
