@@ -9,7 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [President, Zekkouri Hassan](./zekkourihassan.md)
 ## Branch Managers
 ### Web Branch Members
-[Oumayama Abaouche](./oumayamaabaouche.md)
 
 [EL AADRAOUI YASSINE ](./elaadraouiyassine.md)
 
@@ -17,13 +16,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Idris Elgarrab](./idriselgarrab.md)
 
-[ELGOURARI MOURAD](./elgourarimourad.md)
-
 [Amal ouassem](./amalouassem.md)
 
 [El Ghazi Mohamed](./elghazimohamed.md)
-
-[Hafsa Nayah](./hafsanayah.md)
 
 [NOGOT YOUSSEF ](./nogotyoussef.md)
 
