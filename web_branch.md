@@ -32,23 +32,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Zekkouri Hassan](./zekkourihassan.md)
 
-[OMAR EL HAZZAOUI](./omarelhazzaoui.md)
-
-[SAOURI Ouijdane](./saouriouijdane.md)
-
-[Safaa Lantir](./safaalantir.md)
-
 [Talha Imane](./talhaimane.md)
 
 [Boughfir hamza](./boughfirhamza.md)
 
 [FDAIL FATIMA AZZAHRA](./fdailfatimaazzahra.md)
-
-[Hiba habibi](./hibahabibi.md)
-
-[Abdelhakim Allouani](./abdelhakimallouani.md)
-
-[Arroubi youness](./arroubiyouness.md)
 
 [Mohamed Elazzaoui](./mohamedelazzaoui.md)
 
