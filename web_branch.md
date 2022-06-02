@@ -38,17 +38,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [FDAIL FATIMA AZZAHRA](./fdailfatimaazzahra.md)
 
-[Mohamed Elazzaoui](./mohamedelazzaoui.md)
-
 [ELham Ed-daoudy](./elhamed-daoudy.md)
-
-[youssef achehboune](./youssefachehboune.md)
-
-[OMAR EL HASSANI ALAOUI](./omarelhassanialaoui.md)
-
-[Ouidad Hassan](./ouidadhassan.md)
-
-[Ayoub Elzemzoumi](./ayoubelzemzoumi.md)
 
 [Khaoula Gribis](./khaoulagribis.md)
 
